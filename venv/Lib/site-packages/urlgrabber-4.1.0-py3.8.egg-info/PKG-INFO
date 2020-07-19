@@ -1,0 +1,31 @@
+Metadata-Version: 1.2
+Name: urlgrabber
+Version: 4.1.0
+Summary: A high-level cross-protocol url-grabber
+Home-page: http://urlgrabber.baseurl.org/
+Author: Michael D. Stenner, Ryan Tomayko, Seth Vidal, Zdenek Pavlas
+Author-email: mstenner@linux.duke.edu, rtomayko@naeblis.cx, skvidal@fedoraproject.org, zpavlas@redhat.com
+Maintainer: Neal Gompa
+Maintainer-email: ngompa@fedoraproject.org
+License: LGPLv2+
+Description: UNKNOWN
+Keywords: urlgrabber yum http ftp
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Topic :: Internet :: File Transfer Protocol (FTP)
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Environment :: Console
+Classifier: Environment :: Web Environment
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v2 or later (LGPLv2+)
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
